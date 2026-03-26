@@ -1,2 +1,2 @@
 ﻿# lojinha-chata
-<img width="933" height="767" alt="{5F447A18-FF47-4486-946E-8F205B81686D}" src="https://github.com/user-attachments/assets/ccc0d801-5d13-4596-a943-b121978b873c" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
